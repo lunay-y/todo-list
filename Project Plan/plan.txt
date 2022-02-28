@@ -1,0 +1,25 @@
+Create a simple todos list:
+
+1.Background image will change per refresh
+    -use unsplash
+    -set up Api to:
+        -param: random
+        -param: photos
+        -query? nature
+
+2. H1 with sentence that shows typing
+    -search on google
+
+3. Input with add button to add new todos
+    -input field
+    -button with event listener
+    -input value will be stored in local storage (create array)
+    -show new added todos on screen
+
+4. new added todos will show together with DONE button and DELETE button
+    -when done clicked box will turn lighter and line will cross
+    -when delete button clicked the todo will desappear from screen and delete from localstorage
+
+5. add Filter to filter ALL, COMPLETED and UNCOMPLETED todos
+
+6. add ability for user to switch theme for the background images
